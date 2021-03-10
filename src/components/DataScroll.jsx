@@ -1,4 +1,3 @@
-// https://www.youtube.com/watch?v=JcHLxzrsRS4&t=3s
 import React, { useEffect } from 'react';
 import Aos from 'aos';
 import "aos/dist/aos.css"
